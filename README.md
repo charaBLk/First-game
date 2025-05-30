@@ -18,4 +18,4 @@ A fun little Pygame project where Messi and Ronaldo shoot balls at each other in
 
 # Messi vs Ronaldo - Pygame Mini Game 🎮⚽
 
-![Game Screenshot](messi_vs_ronaldo_game.png)
+![Game Screenshot](ronaldovsmessi.png)
